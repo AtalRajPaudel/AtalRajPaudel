@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtalRajPaudel
 - 👀 I’m interested in coding. Mainly worldly applications
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through email: atal.r.paudel@gmail.com
 
